@@ -5,14 +5,13 @@ the data consists of:
 - Reps (Which Contains Sales Indoor).
 - Stores (which Contains Store’s Info).
 
-First I've used excel to answer some questions:
+First I've used excel to answer some questions (you an find the answers in the pivot tables sheet is the attached folder):
 - Get Top 20 Products per Sold.
 - Get Top 10 Reps per Count of Order number.
 - Get Top & Worst 10 Brand per Value.
 - Rank Month in Each Stores.
 - Rank Reps in each Stores.
 - Rank Products in each Brand.
-  (file will be attached)
 
 Then I've created a star schema model:
 ![Data Model](https://github.com/MohamedWageh09/Toys-Store-Analysis/assets/120044385/f3fd032f-8b00-45bb-87ed-c1711ea5367d)
