@@ -23,6 +23,6 @@ To populate the DWH i've created a simple SSIS ETL package
 ![image](https://github.com/MohamedWageh09/Toys-Store-Analysis/assets/120044385/87176136-be9f-453b-99d9-a49bcf401974)
 
 After populating the DWH i've onnected Power BI to the DWH and created 3 dashboards for sales, stores and sales representitives.
-you an find the dashboard [here]https://www.novypro.com/project/toys-store-dashboard
+you an find the dashboard [here](https://www.novypro.com/project/toys-store-dashboard)
 
 
